@@ -1,8 +1,6 @@
 # Leave Request Assistant — MCP
 ---
 
-## A conversational AI assistant for submitting employee leave requests, built with FastMCP, OpenAI GPT-4.1, and Oracle Cloud Cohere. Employees chat naturally to check balances, prepare, and confirm leave requests — with a two-step confirmation flow, multi-model support, and full LangSmith observability. System prompts are managed directly on LangSmith Prompt Hub, making the entire pipeline fully automated — no code changes needed to update AI behavior. The architecture is designed for easy extensibility: to add any new feature, clients simply register a new tool in the MCP server and it becomes instantly available to the AI without touching the client application.
-
 
 ## Project Structure
 
