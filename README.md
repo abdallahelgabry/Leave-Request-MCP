@@ -18,7 +18,7 @@ leave-request-mcp/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/leave-request-mcp.git
+git clone https://github.com/abdallahelgabry/Leave-Request-MCP.git
 cd leave-request-mcp
 ```
 
