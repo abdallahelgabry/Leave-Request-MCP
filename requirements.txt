@@ -1,0 +1,7 @@
+fastmcp==2.14.4
+langchain_core==1.2.7
+langsmith==0.6.6
+oci==2.158.0
+openai==2.16.0
+python-dotenv==1.2.1
+streamlit==1.33.0
